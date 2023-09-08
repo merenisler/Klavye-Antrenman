@@ -5,12 +5,15 @@ C# Klavye Antrenmanı
 
 1.Seviye: 1 harf
 
-![Seviye1](https://github.com/merenisler/Klavye-Antrenman/assets/142229251/922116a6-8d98-47b6-b376-8ee467bdead0)
+![Seviye1](https://github.com/merenisler/Klavye-Antrenman/assets/142229251/9f5cd943-fb6d-4eb1-89d8-427cf81d2c18)
+
 
 2.Seviye: 2 Harf
 
-![Seviye2](https://github.com/merenisler/Klavye-Antrenman/assets/142229251/e4140c50-335e-4b9c-acab-442dde1a405b)
+![Seviye2](https://github.com/merenisler/Klavye-Antrenman/assets/142229251/8a0bd523-5bc8-4987-bc85-cc30d13f00ce)
+
 
 3.Seviye: 3 Harf
 
-![Seviye3](https://github.com/merenisler/Klavye-Antrenman/assets/142229251/ceaac210-f573-4b6a-8e2a-ae3c4d0fe611)
+![Seviye3](https://github.com/merenisler/Klavye-Antrenman/assets/142229251/86e17749-2f28-45fc-a85b-f2d8bd6a7531)
+
