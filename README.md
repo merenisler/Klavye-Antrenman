@@ -17,3 +17,7 @@ C# Klavye Antrenmanı
 
 ![Seviye3](https://github.com/merenisler/Klavye-Antrenman/assets/142229251/86e17749-2f28-45fc-a85b-f2d8bd6a7531)
 
+
+https://bionluk.com/erenisler2
+
+https://medium.com/@eren.isler.123.321
